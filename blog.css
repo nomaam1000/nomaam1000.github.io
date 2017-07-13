@@ -1,0 +1,33 @@
+#intro{
+  font-size: 150px;
+  color: #2d2b2c;
+  margin-left: 35%;
+  margin-top: 0px;
+}
+section{
+  background:#80573b;
+}
+
+#basic-summary{
+  color: #2d2b2c;
+  margin-left: 17%;
+  margin-top: 100px;
+  font-size: 120px;
+}
+
+.myname{
+  font-size:65px;
+  margin-top: -150px;
+}
+
+.home{
+  font-size: 60px;
+}
+.photos{
+  font-size: 60px;
+}
+
+.mypc{
+  font-size: 50px;
+  color: #2d2b2c;
+}
